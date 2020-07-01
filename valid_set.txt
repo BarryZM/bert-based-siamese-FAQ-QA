@@ -1,0 +1,250 @@
+[104, 'I need to know which files are being synced.']Check which Dropbox files are currently syncing
+[122, 'I need to stop at a few points between my starting point and my destination, do google maps support this?']How can I add multiple destinations in new Google Maps?
+[26, 'Is there a way to contact a user on github.']Any way to contact a user on Github?
+[98, 'How can I switch out one of my old youtube videos with a new better one?']How to replace a video on YouTube
+[59, 'Can I host a commercial website on github?']Am I allowed to host a commerical website on Github Pages?
+[39, 'How can I link to a particular time in a youtube video.']Linking directly to a specific point in time of a YouTube video
+[101, 'While offering docs and spreadsheets, there is no diagramming software online from google, is there another online tool that I could use to quickly draw some simple stuff I need?']How can I create a simple sequence diagram on the web? [closed]
+[52, "I'm looking for a way to bypass the registration requirement imposed by Quora on people who want to see the complete answer list."]How can I read all answers on Quora without having to register?
+[62, 'Can I somehow find out at what point in time I subscribed to a youtube channel.']How can I find out when I subscribed to a YouTube channel?
+[44, 'Do google mailing lists support non gmail mails?']How can I subscribe to a Google mailing list with a non-Google e-mail address?
+[93, "How can I identify the oldest commit I've made to my github."]Date of first commit
+[74, 'How can I add activities scheduled on facebook to my google calendar?']How can I import Facebook events into my Google calendar?
+[35, 'How do I send people a vimeo clip but with a predefined point where in the video to start.']Is it possible to link to a specific portion of a Vimeo video?
+[44, "Is a gmail mail mandatory to use google's mailing lists."]How can I subscribe to a Google mailing list with a non-Google e-mail address?
+[61, 'I have some data in my google spreadsheet can I sort it automatically?']How can I make some data on a Google Spreadsheet auto-sorting?
+[11, 'Filtering unlabeled gmail messages.']How can I filter my Gmail messages that aren't labeled?
+[79, 'What is the destination of archived mail in gmail?']Where do my emails go when I click on 'Archive' in Gmail?
+[95, "I'd like to send an email with a delay, does gmail support this?"]Can I set an e-mail to send on a timer within Gmail?
+[59, "I'd like to put my company pages on github, is this an option?"]Am I allowed to host a commerical website on Github Pages?
+[18, 'Can I include a spreadsheet into my text document on google docs?']Embed Google Spreadsheet in Google Document
+[93, 'Locating the initial commit to my repo on github.']Date of first commit
+[88, 'What facebook settings can allow me to control who is allowed to tag me and where?']Is it possible to stop people from associating things with me on Facebook without my permission?
+[2, 'My friend made a style for my google documents, how do I add it?']How do I add new styles to Google docs?
+[33, "I'd like to share my google results but the results change on other people's computers, is there a way around this?"]How do I share a search query from Google?
+[54, 'How does gmail generate conversation threads from individual mails?']How does Gmail decide to thread email messages?
+[69, 'Storage space analysis in dropbox.']How to analyze size of files in Dropbox
+[40, "How can I get the name of my google document's parent folder."]How to view the parent folder of a Google Document?
+[52, 'Quora insists I must register if I want to read all the answers to a question, is there some way around this?']How can I read all answers on Quora without having to register?
+[65, 'Is it possible to get size information in gmail.']Display mail size in Gmail
+[35, 'Specifying in a link at which point in the vimeo video to start playing.']Is it possible to link to a specific portion of a Vimeo video?
+[78, 'I wanna start a google hangout with my pal who has no google account, does he have to make one?']Is there a way to join Google Hangouts without a Google+ account?
+[7, "I'd like to download a youtube video, how can I do this?"]How do I download a YouTube video?
+[115, "I'm looking for online interpreting sites, where I could write in my code and see the results in order to practice."]What online computer language interpreters are available, so I can practice programming from my iPhone? [closed]
+[33, 'Replicating identical search results on google on a different computer.']How do I share a search query from Google?
+[40, 'Finding out the parent directory of my google document.']How to view the parent folder of a Google Document?
+[19, 'I inadvertently sent a gmail mail into the archive, how do I fix this?']How do I retrieve a message I accidentally archived in Gmail?
+[67, 'How do I add a bibliography to my google docs document?']Adding bibliographic references to a Google Docs document?
+[2, 'How could I use a new style with on a google doc?']How do I add new styles to Google docs?
+[112, "I'd like to catalog some movies of mine, is there an app on the web for this?"]Are there any web apps that can keep track of collections of books or movies? [closed]
+[23, "I'd like to give a literal query to google (disable any spell checking etc.)"]Force Google search to use only the exact words typed, no spellcheck or synonyms
+[31, "I'm concerned with my sensitive data being in the trello cloud, is there a private option?"]Can I host my own instance of Trello?
+[35, "I'd like to send my friend a link to a particularly important part of a vimeo video, can I include the time when to start into the link?"]Is it possible to link to a specific portion of a Vimeo video?
+[106, 'How can I find a word that has special chars in google search?']How can I search for a keyword with special characters in Google Search?
+[20, "I'd like to manage a thread of mails that gmail assigned to the same conversation. I'd like to have several separate smaller ones, is this possible?"]How do I split conversations in Gmail?
+[22, 'Deleting a trello card.']How do I delete a list or card in Trello?
+[48, 'What are my options for sending fax online?']How can I send a fax online? [closed]
+[110, "I'd like to mute the notification sound in GHO, not really disable notifications all together just mute the sound?"]How do you disable the notification alert sounds in the new Google Hangouts?
+[39, 'I found an epic moment in a clip on youtube, can I specify this moment as the start point when sending a link to people?']Linking directly to a specific point in time of a YouTube video
+[104, "I'd like to find out which files are currently being synced on my dropbox, how can I do this?"]Check which Dropbox files are currently syncing
+[71, 'Is there a special annotation I could assign to an urgent mail in gmail?']Send urgent mail in Gmail
+[119, 'How secure is gmail anyway? Is it possible to send mail that is locked with a key?']How can I encrypt emails sent through Gmail?
+[27, 'How can I skip the save as step and just forward an attachment from one mail to a different one?']In Gmail, how can I attach an attachment from one email to another, without saving the attachment first or forwarding the message?
+[25, 'Methods of performing a back up of a twitter account.']How can I backup all of my tweets?
+[75, 'How to restrict access to my Dropbox for a machine that is no longer in my possesion?']How to remove Dropbox access from a computer you no longer have?
+[93, "I'm intersted to know the age of my github project, what's a simple way to find this?"]Date of first commit
+[42, "I'm afraid I've left some mails unreplied in gmail but i can't remember which, can I use gmail search to find them?"]Search in Gmail - How to search the mails without reply?
+[80, 'I need to find the oldest mail on gmail from my friend, how can I do this?']In Gmail, how can I find the oldest message from a person?
+[34, 'How can I find out who unfriended me on fb.']Determine who unfriended me on Facebook
+[75, 'How can I get rid of dropbox on a particular computer that is linked to my account using only the online interface?']How to remove Dropbox access from a computer you no longer have?
+[18, 'Is it possible to include a chart from google spreadsheets into a regular google document?']Embed Google Spreadsheet in Google Document
+[2, "I'd like to introduce new styles in google docs, how do I achieve that?"]How do I add new styles to Google docs?
+[42, 'Finding unreplied mails in gmail.']Search in Gmail - How to search the mails without reply?
+[18, 'Can google docs contain other objects such as spreadsheets?']Embed Google Spreadsheet in Google Document
+[16, "I'd like to import a very large list of tasks into trello, what's the easiest way to do this?"]How can I import a large list of tasks into Trello
+[101, 'Are there any web based alternatives to professional diagram drawing software?']How can I create a simple sequence diagram on the web? [closed]
+[98, 'Does youtube support replacement of videos?']How to replace a video on YouTube
+[76, 'Is there a way to include position in the document when i link to a google docs document?']Is there a way to create a link to a particular position inside a Google Doc?
+[63, 'Having more than one dropbox account per computer.']Multiple dropbox accounts on one PC?
+[114, 'How to change the owner of everything inside a google drive folder?']How can I recursively set ownership of Google Drive files and folders?
+[57, 'Is it possible to search for only those mails on gmail where there are no other recipients but me?']How can I set a Gmail filter that finds email sent “only to me”?
+[79, 'Where are archived mails actually kept in gmail?']Where do my emails go when I click on 'Archive' in Gmail?
+[36, 'Who would want to use wolfram alpha and for what?']What is Wolfram Alpha good for? [closed]
+[10, 'Can facebook know when you are logged in gmail?']Facebook detects if you are logged in Gmail
+[68, 'Is there any web site where I could submit an image and get a list of locations on the web where this image is located?']Reverse image search engine [closed]
+[120, "I've planned a route for myself on google maps, where can I see how long it is?"]How can I measure distance in Google Maps?
+[69, 'Does dropbox provide some kind of storage space analysis utility?']How to analyze size of files in Dropbox
+[87, 'Where can I find a list of publicly available trello boards?']Can I browse all the public Trello boards available?
+[36, 'What would be good arguments for using wolfram alpha?']What is Wolfram Alpha good for? [closed]
+[94, 'Is it possible to add a filter to gmail for calendar notices.']Create a Gmail filter for Calendar Notifications
+[81, 'Is it possible to hide my likes from my facebook friends?']How to hide my likes from my friends on Facebook?
+[37, 'When sending links to google spreadsheets documents is it possible to specify which sheet should be the active one.']Link to specific sheet in Google spreadsheet
+[31, 'Can I have an instance of trello locally.']Can I host my own instance of Trello?
+[4, 'Can I link to a particular cell of a google spreadsheet document from a cell in another document?']How do I link a cell in Google Spreadsheets to a cell in another document?
+[113, 'Google is auto saving my document too often, can I disable this feature?']How to disable auto-save in Google Docs?
+[121, 'Is it possible to transfer contacts from one google account to another.']How can I move Google contacts between two different accounts?
+[15, "I'd like to export my trello data, what's the best way to do this."]Is it possible to export my data from Trello, to back it up?
+[56, "I'd like to get a list of all people who ever sent me emails in gmail."]Get e-mail addresses from Gmail messages received
+[59, 'Our small company would like to use github as our repository, is this allowed?']Am I allowed to host a commerical website on Github Pages?
+[90, 'Can I download a file containing the transcript (subtitles) generated for a particular video automatically by youtube?']Downloading auto-generated YouTube transcriptions
+[3, "I'd like to strikethrough text in gmail."]How do I strikethrough text in Gmail?
+[55, 'Marking a card as done in trello?']How can I mark a card in Trello as done and keep it in the original list?
+[15, "In case anything happened to my information on trello I'd be lost, can I somehow download it all for safe keeping."]Is it possible to export my data from Trello, to back it up?
+[70, 'Adding subtitles to a youtube video for which im not the owner.']Add subtitles to a video of another user on YouTube
+[7, 'Viewing a youtube video offline.']How do I download a YouTube video?
+[116, "I'd like to add a recepient of one of my mails (in cc) to my gmail contacts."]In Gmail, how do I create a contact from a recipient of an email?
+[92, "I'd like to download an entire directory from the dropbox web interface, what is the easiest way to do this?"]Is there an easy way to download entire folders from the Dropbox website?
+[57, 'Filtering mail that was sent only to me in gmail.']How can I set a Gmail filter that finds email sent “only to me”?
+[43, 'Constraining search on gmail to my main inbox.']How can I only search the Primary inbox in Gmail?
+[72, "I'd like to browse only the messages in the archive in gmail, is this possible?"]Can I see only mail I have archived in Gmail?
+[56, 'My friend and I want to make a comprehensive analysis of who sent us mail. Can we get a list of emails of all of our incoming gmail messages?']Get e-mail addresses from Gmail messages received
+[45, 'How can I constrain my search to be only in a single folder of google drive.']In Google Drive, is there a way to search files located in a particular folder?
+[75, 'Removing dropbox access for a computer I no longer own.']How to remove Dropbox access from a computer you no longer have?
+[16, 'Is it possible to import a list of tasks that i made into trello?']How can I import a large list of tasks into Trello
+[26, 'Does git hub allow some kind of messages to contact users.']Any way to contact a user on Github?
+[65, "I'm running out of space on gmail, are there options to see mail sizes and possibly remove large mails?"]Display mail size in Gmail
+[13, 'If I want to forward several emails in gmail, do I have to do it one by one, or is there a better way?']How to forward multiple emails in Gmail
+[78, 'Using hangouts without a google user account.']Is there a way to join Google Hangouts without a Google+ account?
+[34, 'Can I see who stopped being my friend on facebook.']Determine who unfriended me on Facebook
+[0, 'Introducing stikethrough formatting on markdown for github.']Strikethrough with GitHub Markdown
+[4, 'How do I link two cells from different google spreadsheet documents.']How do I link a cell in Google Spreadsheets to a cell in another document?
+[114, 'Is it an option to specify owners of many files within the same google drive folder at the same time?']How can I recursively set ownership of Google Drive files and folders?
+[84, 'Does google deliberately skip indexing some pages?']What can you NOT find on Google? [closed]
+[101, 'I need to draw a sequence diagram, but I dont want to use visio, are there any online tools?']How can I create a simple sequence diagram on the web? [closed]
+[87, 'Is it possible to see / browse all public trello boards?']Can I browse all the public Trello boards available?
+[9, 'What are my options for exporting text from gmail mails as files?']Export Gmail messages to text or HTML files
+[5, "I have a markdown document that I'd like to convert to google docs, what's the easiest way to to this?"]How can Google Docs and markdown play nice?
+[109, 'Where can I see which accounts have access privileges to my google drive folders?']How can I see who has access to my Google Drive folders?
+[50, 'I want to delete all mail from my gmail account.']How do I delete all my mail from my Gmail account?
+[51, 'How can I send an executable file via gmail?']How can I send a Windows executable via Gmail?
+[88, 'What is the best way to ensure my privacy with respect to tagging on FB?']Is it possible to stop people from associating things with me on Facebook without my permission?
+[64, 'How do I make sure my privacy is safe on facebook.']How do I ensure that what I post on Facebook stays private?
+[70, 'Can someone else add subtitles to my video on youtube?']Add subtitles to a video of another user on YouTube
+[20, 'Is splitting conversations possible in mail threads on gmail.']How do I split conversations in Gmail?
+[35, 'I saw this funny bit on a Vimeo clip, how can I link to that exact time in the video.']Is it possible to link to a specific portion of a Vimeo video?
+[73, "Can I connect gmail and twitter so I'm notified when people I'm following tweet something with hash tags I specify?"]Is there a way to get email notifications when someone tweets?
+[21, 'How can I make google remove some results from my search results.']Is there a way to remove sites permanently from (my personal) Google search results?
+[61, 'How do I make some data automatically sorted in descending order on google spreadsheets?']How can I make some data on a Google Spreadsheet auto-sorting?
+[28, "What is the easiest way of playing all user's youtube videos."]Play all YouTube videos uploaded by one user
+[27, "I'd like to attach a file that I received as an attachment, can I avoid downloading it?"]In Gmail, how can I attach an attachment from one email to another, without saving the attachment first or forwarding the message?
+[15, 'What is the best way to export trello data to my local back up.']Is it possible to export my data from Trello, to back it up?
+[56, 'Listing all email addresses who sent me mail.']Get e-mail addresses from Gmail messages received
+[76, 'Can I link to a specific location within a google document?']Is there a way to create a link to a particular position inside a Google Doc?
+[10, 'Why can facebook see when I am and when I am not logged into my gmail account.']Facebook detects if you are logged in Gmail
+[109, 'I need to know access rights for people to my google drive documents.']How can I see who has access to my Google Drive folders?
+[105, "Is there a way to download all the text I've ever written in google chat?"]How can I export my Google chat logs?
+[13, 'How do I forward multiple gmails in gmail.']How to forward multiple emails in Gmail
+[10, 'Can fb detect if you are looged into yout google account?']Facebook detects if you are logged in Gmail
+[67, 'Adding references to a google doc.']Adding bibliographic references to a Google Docs document?
+[30, 'Formatting code in gmail.']What is the easiest way to format code when pasting to Gmail?
+[56, 'Getting a listing of all mails from which i received messages (ever).']Get e-mail addresses from Gmail messages received
+[83, 'Stop youtube videos from automatically playing when clicked.']How do I disable autoplay on YouTube?
+[68, 'How can I do a reverse search of an image, giving an image as input and getting similar versions of the image as output?']Reverse image search engine [closed]
+[0, 'How can I cross out my text on git hub?']Strikethrough with GitHub Markdown
+[120, 'Finding out how far my destination is on google maps.']How can I measure distance in Google Maps?
+[66, 'Using a different filter for each user looking at a google spreadsheets document.']Multi user filter issue in Google Spreadsheets
+[82, "Can I view the USA version of google even though i'm not located in the USA."]How can I access google.com outside the US?
+[62, 'How can I find out when my subscription to a youtube channel started?']How can I find out when I subscribed to a YouTube channel?
+[30, 'Efficiently pasting code into gmail without losing indentation.']What is the easiest way to format code when pasting to Gmail?
+[72, 'Is it possible to search for only those messages that I have archived?']Can I see only mail I have archived in Gmail?
+[55, 'I usually move a trello card to the done list to mark it as done, but is there some flag that i could set instead (without moving it).']How can I mark a card in Trello as done and keep it in the original list?
+[85, "I made a mistake by trusting a computer for my google 2 factor authentication, I wish to undo this but I don't know how."]How do I untrust a computer with Google two-factor authentication?
+[44, "I'd like to add a friend to my google group but he doesn't have a google mail address, is this doable?"]How can I subscribe to a Google mailing list with a non-Google e-mail address?
+[96, "I'd like to remove some friends from my contact list in google hangouts (not remove them as my friends i just want them to be absent from the list)."]How to hide contacts from Hangouts within Gmail
+[29, "When I make a link in google drive it lists the contents, I'd like it to lead to a simple downlad, can this be done?"]In Google Drive, how can you link directly to “Download” a zip file and not view the contents?
+[37, 'How can i specify which sheet should be active when sending a link to a google spreadsheets document.']Link to specific sheet in Google spreadsheet
+[25, "I'd like to make a backup of all the stuff I've been writing on twitter. How do I do that?"]How can I backup all of my tweets?
+[90, 'Some youtube videos have automatically generated subtitles, is it possible to download only the subtitles?']Downloading auto-generated YouTube transcriptions
+[113, "I'm getting glitches in google docs because is trying to save my document too often, is there a workaround for this?"]How to disable auto-save in Google Docs?
+[90, "I'm kinda low on bandwidth, so I'd like to download only the autogenerated transcription of a youtube video while ignoring the video itself, is this possible?"]Downloading auto-generated YouTube transcriptions
+[35, 'Does vimeo support making links that have a point in time in the video specified.']Is it possible to link to a specific portion of a Vimeo video?
+[116, 'How can I put e-mails in the "TO" section of a gmail message into my list of contacts.']In Gmail, how do I create a contact from a recipient of an email?
+[93, "I'd like to find the oldest commit in my github repo."]Date of first commit
+[51, 'Sending programs over gmail.']How can I send a Windows executable via Gmail?
+[100, 'How do I secure a good time slot for a meeting using a web app?']What is a good webapp for finding the best meeting time for a group of people? [closed]
+[55, 'Is it possible to mark a trello card as done but not move it from its current list?']How can I mark a card in Trello as done and keep it in the original list?
+[7, 'Is it possible to download a youtube video?']How do I download a YouTube video?
+[10, "What's the deal with facebook knowing when you are logged into google, and even using it when you reset your password."]Facebook detects if you are logged in Gmail
+[57, 'Filter gmail mails to those that were sent to me alone.']How can I set a Gmail filter that finds email sent “only to me”?
+[63, 'Can I have multiple Dropbox accounts on the same physical computer?']Multiple dropbox accounts on one PC?
+[116, 'Creating a contact from a person in the CC field of a mail.']In Gmail, how do I create a contact from a recipient of an email?
+[0, 'I want to have strikethrough text on github, is this possible?']Strikethrough with GitHub Markdown
+[7, "I'd like to send a youtube video to a friend who has no internet, can I somehow send him the raw file?"]How do I download a YouTube video?
+[76, 'Do google docs support including the position in the document when making links?']Is there a way to create a link to a particular position inside a Google Doc?
+[93, 'How can I find when the first commit for a given repo on github happened.']Date of first commit
+[106, "Why doesn't google work when I enter punctuation chars and such?"]How can I search for a keyword with special characters in Google Search?
+[30, 'Keeping indendation of code that I paste into gmail.']What is the easiest way to format code when pasting to Gmail?
+[66, 'When more than one user are looking at a google spreadsheet they share filters, is there a way around this?']Multi user filter issue in Google Spreadsheets
+[68, 'Is there a search engine that could find images like the one I give as input.']Reverse image search engine [closed]
+[13, 'How to forward more than one email from gmail?']How to forward multiple emails in Gmail
+[40, 'Is it possible to view the parent directory of a document on google docs.']How to view the parent folder of a Google Document?
+[99, 'I get lots of friend suggestions from fb, how does this work?']How does the Facebook friend finder operate?
+[24, 'Can I secretly follow someone on twitter.']How can I follow someone on Twitter without them knowing?
+[108, 'Can I export all my private messages from facebook into my private backup?']How can I download all messages from Facebook?
+[73, 'There is a funny guy on twitter, can I make it so that I get e-mail message everytime he posts something with given hashtags?']Is there a way to get email notifications when someone tweets?
+[68, 'What would be a good reverse image search engine?']Reverse image search engine [closed]
+[121, 'What are the possibilities of transfering contact data between different google accounts.']How can I move Google contacts between two different accounts?
+[26, 'How do I get in touch with a developer i like on github.']Any way to contact a user on Github?
+[112, 'I have a large movie collection, is there an app on the web that would allow me to manage it?']Are there any web apps that can keep track of collections of books or movies? [closed]
+[53, 'Is it possible to add information about task interdependencies on trello?']How do you handle dependencies between cards with Trello?
+[57, 'Filtering mails to those that were sent to only me.']How can I set a Gmail filter that finds email sent “only to me”?
+[59, 'Can commercial code be hosted on github.']Am I allowed to host a commerical website on Github Pages?
+[67, 'In latex its easy to generate a references section, do google docs have some similar functionality?']Adding bibliographic references to a Google Docs document?
+[119, 'How do I send secured (encrypted) mails through gmail?']How can I encrypt emails sent through Gmail?
+[8, 'Is there a way to get color formatting of code in google docs.']How can I get code syntax highlighting in Google Docs?
+[63, 'Options for using more than one Dropbox account with the same computer.']Multiple dropbox accounts on one PC?
+[4, 'Is it possible to link a google spreadsheets cell to a cell in another document.']How do I link a cell in Google Spreadsheets to a cell in another document?
+[60, 'Is it possible to link to a specific point on the map in google maps?']Create a Google maps link to a specific location
+[119, "I'd like to use PGP with gmail, is this an option?"]How can I encrypt emails sent through Gmail?
+[25, "I'd like to make sure my twitter data doesn't get lost. What are some extra steps I could take?"]How can I backup all of my tweets?
+[58, "I'm a college student, is there anything in Microsoft office that i might be missing if I decide to switch to google docs."]Are there any important features from Microsoft Office that a college student would miss if he switched entirely over to Google Docs? [closed]
+[91, "I'd like to share my photos in my facebook albums with my grandma who is, of course, not on facebook, is there a way to do this?"]How do you share a Facebook photo album with people that don't want to register for Facebook?
+[12, 'If I kick the bucket, what happens to my facebook account.']What happens to your Facebook account when you die?
+[41, 'Is it possible to do analysis on traffic data from github.']Is there any way to see traffic sources to a Github project?
+[24, "Is it possible to follow someone on twitter but keep a low profile so he doesn't know."]How can I follow someone on Twitter without them knowing?
+[104, 'How to know which files dropbox is syncing.']Check which Dropbox files are currently syncing
+[69, "I reached my storage limit on dropbox and need to decide what to delete, what's the easiest way to do this?"]How to analyze size of files in Dropbox
+[6, 'Is there a way to copy only the text from gmail (withut formatting).']Gmail &amp; Google Docs: Paste just the text, not the formatting (Firefox, Safari)
+[60, 'Inlcuding spatial coordinates of a point into a link to google maps.']Create a Google maps link to a specific location
+[7, 'How can I download a Youtube video.']How do I download a YouTube video?
+[19, 'I archived a gmail message by accident, is it possible to undo this?']How do I retrieve a message I accidentally archived in Gmail?
+[87, 'Is there a way to get a list of all available (public) trello boards?']Can I browse all the public Trello boards available?
+[8, 'How can I get colored code in google documents.']How can I get code syntax highlighting in Google Docs?
+[52, 'Quora displays only the first / best answer, can I read the rest of the answers without registering?']How can I read all answers on Quora without having to register?
+[97, "How can I be sure that the person I've sent mail to has actually read it. Is there a way to know?"]Did the receiver open the mail?
+[109, "I'd like to know who has access to my google drive folders."]How can I see who has access to my Google Drive folders?
+[54, 'How is a thread of conversation constructed by gmail?']How does Gmail decide to thread email messages?
+[87, 'Does trello offer information on all the public boards in existence?']Can I browse all the public Trello boards available?
+[94, "I'm getting spammed by all the notices I'm getting from google calendar, is it possible to filter then out into their own group?"]Create a Gmail filter for Calendar Notifications
+[120, 'I want to know how far two points on google maps are, how do I go about this?']How can I measure distance in Google Maps?
+[48, 'What are the possibilities for sending fax online?']How can I send a fax online? [closed]
+[59, 'Are there legal problems with hosting a for profit web site on github?']Am I allowed to host a commerical website on Github Pages?
+[115, 'Are there any sites where I can code online and get my interpreted code executed.']What online computer language interpreters are available, so I can practice programming from my iPhone? [closed]
+[5, 'How do I use markdown in google documents.']How can Google Docs and markdown play nice?
+[32, 'Is it possible to search within messages that a particular person tweeted.']How do I search within someone's tweets?
+[110, 'Disabling GHO notification sounds.']How do you disable the notification alert sounds in the new Google Hangouts?
+[6, 'Can I copy text from gmail but only the raw text?']Gmail &amp; Google Docs: Paste just the text, not the formatting (Firefox, Safari)
+[55, 'Is there an option to mark a trello card as done, but not remove it from the list?']How can I mark a card in Trello as done and keep it in the original list?
+[75, 'I forgot to uninstall Dropbox before giving my computer to my nephew, is there a way to fix this through the online interface?']How to remove Dropbox access from a computer you no longer have?
+[59, 'Does github allow companies to host their pages for commercial purposes?']Am I allowed to host a commerical website on Github Pages?
+[5, 'Do google docs support markdown.']How can Google Docs and markdown play nice?
+[22, "How can I completely delete trello cards or lists, I'm not talking about archiving but full blown deletion."]How do I delete a list or card in Trello?
+[30, "I'm spending too much time fixing my code font and indentation after pasting it into gmail. Is there a way to to do it faster?"]What is the easiest way to format code when pasting to Gmail?
+[19, 'My kid archived some messages I need on gmail, what can I do to fix it?']How do I retrieve a message I accidentally archived in Gmail?
+[15, 'Is it an option to export all my trello data so I can have a safe local backup of my stuff?']Is it possible to export my data from Trello, to back it up?
+[49, 'Buffering of videos on youtube stopping when videos is paused?']YouTube stops buffering when video is paused
+[121, 'Is it possible to move contacts from my old google account to my new one?']How can I move Google contacts between two different accounts?
+[67, 'Can I automatically generate a references section in google docs (like you can i latex).']Adding bibliographic references to a Google Docs document?
+[118, 'Adding some descriptive text beneath an image in google docs.']How do I add a caption to an image in Google Documents?
+[99, 'How does facebook friend finder work?']How does the Facebook friend finder operate?
+[74, 'How do I make my calendar on google aware of stuff i scheduled on facebook.']How can I import Facebook events into my Google calendar?
+[98, "I've fixed a small mistake in my youtube video, can I upload the fixed version over the faulty one?"]How to replace a video on YouTube
+[71, "What are my options to mark a mail I'm sending as top priority."]Send urgent mail in Gmail
+[113, 'How can I stop google documents from saving my work every 3 seconds?']How to disable auto-save in Google Docs?
+[115, 'Online app for testing my programming abilities.']What online computer language interpreters are available, so I can practice programming from my iPhone? [closed]
+[46, 'Twenty results per page in gmail search is too low, can I increase the number of results shown?']How to set up Gmail to show more than 20 results per page when searching?
+[80, "I'd like to find the mail farthest back in time from a friend of mine, can I do this in gmail?"]In Gmail, how can I find the oldest message from a person?
+[80, 'I want to find the very first message that my wife sent me by mail, it was to my gmail account, is this possible?']In Gmail, how can I find the oldest message from a person?
+[101, 'Is there any online tool to make a sequence diagram?']How can I create a simple sequence diagram on the web? [closed]
+[27, 'Is it possible to attach an attachment in gmail directly from another mail?']In Gmail, how can I attach an attachment from one email to another, without saving the attachment first or forwarding the message?
+[39, 'How to include start time point for a youtube video when I link it to someone?']Linking directly to a specific point in time of a YouTube video
